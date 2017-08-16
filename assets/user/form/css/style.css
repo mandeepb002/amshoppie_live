@@ -1,0 +1,436 @@
+body
+{
+margin:0;
+padding:0;	
+overflow-x:hidden;
+}
+ul
+{
+margin:0;
+padding:0;	
+}
+.navbar-brand{
+	padding: 0 !important;
+	height: 60px;
+}
+.margin-bottom, .navbar-form{
+	margin-bottom: 0 !important;}
+.logo-img{
+height: 60px;
+    width: 180px;
+}
+.list-icon li{
+	display: inline;
+	line-height:50px;
+	padding: 0px 15px;
+}
+.form-control1 {
+    width: 370px;
+	border:1px solid #ccc !important;
+}
+.icon1{
+	height:20px;
+}
+.f-size{
+	font-size: 18px !important;
+}
+.mob1
+{
+	background:#F6F6F6;
+	height:auto;
+}
+.mobileicon
+{
+	padding:40px;
+	margin-left:55px;
+}
+.mobtext
+{
+	font-size:42px;
+	text-align:center;
+    padding-bottom:40px;
+}
+.moboffr
+{
+	font-size:16px;
+	font-weight:100px;
+	color:#ff7300;
+	text-align:left;
+	 margin-left: 85px;
+}
+.moboffr1
+{
+	font-size:12px;
+	text-align:left;
+	    margin-left: 85px;
+	
+}
+.head1
+{   
+    padding-top:20px;
+	text-align:center;
+	padding-bottom:40px;
+	font-size: 24px;
+    font-weight: 600;
+}
+.field1
+   {
+	border:none;
+	border-bottom:1px solid #ccc;
+	width:100%;
+	margin-bottom:20px;
+	background:none;
+}
+.field1:focus
+{
+	border:none !important;
+	border-bottom:1px solid #ccc !important;
+	outline: none !important;
+}
+.icontext
+ {
+    
+    position: absolute;
+    top: 0;
+}
+/*.label1
+{
+	border:none;
+	border-bottom:1px solid #ccc;
+	width:100%;
+	margin-bottom:30px;
+
+}
+.label1:focus
+{
+	border:none !important;
+	border-bottom:1px solid #ccc !important;
+	outline: none !important;
+}
+.label2
+{
+	border:none;
+	border-bottom:1px solid #ccc;
+	width:100%;
+    margin-bottom:30px;	
+}
+.label2:focus
+{
+	border:none !important;
+	border-bottom:1px solid #f6f6f6 !important;
+	outline: none !important;
+}
+.label3
+{
+	border:none;
+	border-bottom:1px solid #ccc;
+	width:100%;
+	margin-bottom:30px;
+}
+.label3:focus
+{
+	border:none !important;
+	border-bottom:1px solid #ccc !important;
+	outline: none !important;
+}*/
+.btn1
+{
+	
+    background: #ff7300;
+    width: 194px;
+    background: #ff7300 !important;
+    height: 40px;
+    font-size: 14px;
+    font-weight: 600;
+	margin-left:0px;
+}
+.btn1 :focus
+{
+	outline:none !important;
+}
+.head2
+{
+	 padding-top:20px;
+	text-align:center;
+	padding-bottom:40px;
+	font-size: 24px;
+    font-weight: 600;
+}
+.sub-h{
+
+	font-size: 16px;
+    font-weight:600;
+	}
+.promotext
+{
+	font-size:12px;
+	padding-bottom:20px;
+}
+.view1
+{
+	float: right;
+    padding-right: 26px;
+}
+
+.dropdown-content li>a, .dropdown-content li>span {
+    
+     color: #999 !important;
+   
+}
+input[type=text]:focus:not([readonly])+label, input[type=password]:focus:not([readonly])+label, input[type=email]:focus:not([readonly])+label, input[type=url]:focus:not([readonly])+label, input[type=time]:focus:not([readonly])+label, input[type=date]:focus:not([readonly])+label, input[type=datetime-local]:focus:not([readonly])+label, input[type=tel]:focus:not([readonly])+label, input[type=number]:focus:not([readonly])+label, input[type=search]:focus:not([readonly])+label, textarea.materialize-textarea:focus:not([readonly])+label {
+    color: #999 !important;
+	font-size:10px !important;
+}
+.oprow
+{
+	padding:24px !important;
+}
+.amtrow
+{
+	padding-bottom:40px;
+}
+.oprtricon
+{
+	padding-top:40px;
+}
+.oprtrimg
+{
+	margin-right: 10px;
+}
+/* mobile SECTION end */
+/* DTH SECTION START */
+.dthicon
+{	
+    padding: 40px;
+    margin-left: 40px;
+    height: 314px;
+}
+
+
+/* DTH SECTION END */
+/* Electricity SECTION START */
+.electicon {
+    padding: 40px;
+    margin-left: 24px;
+}
+.electrow
+{
+	padding-bottom:20px;
+}
+/* Electricity SECTION END */
+
+/* GAS SECTION START */
+.gasicon
+{
+	padding: 40px;
+	margin-left: 44px;
+}
+/* gas SECTION END */
+
+/* municipal SECTION START */
+.municipalicon
+{
+	padding: 40px;
+	margin-left: 14px;
+}
+.busicon
+{
+    margin-left: 20px;
+    padding: 40px;
+}
+/* municipal SECTION END */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*-------------------------*/
+.row {
+    margin-bottom: 0px;
+  }
+
+  .subpanel.register .input-field label{
+    font-weight: 400;
+    color: #fff;
+  }
+
+  .subpanel.register .input-field input:focus + label {
+    color: #fff;
+  }
+
+  .subpanel.register .input-field input {
+    border-bottom: 1px solid #fff;
+    box-shadow: 0 1px 0 0 #fff;
+  }
+
+  .subpanel.register .input-field input:focus {
+    border-bottom: 1px solid #fff;
+    box-shadow: 0 1px 0 0 #fff;
+  }
+
+.panel {
+    background: #fff;
+    box-shadow: 0 -8px 0 -2px rgba(255, 255, 255, 0.7), 0 2px 5px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+    max-width: 360px;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    height: 460px;
+  }
+
+  .panel.open {
+    height: 600px;
+    -webkit-transition: height 0.15s 0.25s;
+    transition: height 0.15s 0.25s
+  }
+
+  .panel .subpanel h2 {
+    font-size: 2.56rem;
+    margin: 25px 0 45px;
+    display: inline-block;
+    text-align: left;
+    border-left: 3px solid;
+    padding-left: 35px;
+    width: 100%;
+  }
+
+  .panel .subpanel a {
+    text-decoration: none;
+    color: #999;
+    display: inline-block;
+    margin-top: 35px;
+  }
+
+  .panel .subpanel .btn {
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    position: relative;
+  }
+
+  .panel .subpanel a:hover {
+    color: #ED2553;
+    text-decoration: underline;
+  }
+
+  .subpanel form {
+    padding: 0 25px 25px 25px;
+    max-width: 320px;
+    margin: auto;
+  }
+
+  .subpanel.register {
+    color: #fff;
+    font-weight: 100;
+    width: 72px;
+    height: 72px;
+    margin: 5px;
+    padding: 0;
+    border-radius: 100%;
+    overflow: hidden;
+    display: inline-block;
+    cursor: pointer;
+    left: 320px;
+    top: 30px;
+    position: absolute;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+  }
+
+  .subpanel.register .close {
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+    position: absolute;
+    top: 11px;
+    width: 50px;
+    height: 50px;
+    z-index: 2;
+    right: 11px;
+    font-size: 50px;
+    -webkit-transform: rotate(45deg);
+            transform: rotate(45deg);
+  }
+
+  .subpanel.register form, .subpanel.register h2 {
+    color: #fff;
+    opacity: 0;
+    position: relative;
+    -webkit-transform: translateX(30px);
+            transform: translateX(30px);
+  }
+
+  .subpanel.register h2 {
+    margin-bottom: 15px;
+    -webkit-transform: translateY(30px);
+            transform: translateY(30px);
+  }
+
+  /* The animation form + to register page */
+  .subpanel.register.open {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    margin: 0;
+    cursor: inherit;
+    z-index: 50;
+    left: 0;
+    top: 0;
+    border-radius: 8px;
+    -webkit-transition: width 0.2s 0.2S, height 0.15s 0.25s, border-radius 0.6s, left 0.3s, top 0.3s;
+    transition: width 0.2s 0.2S, height 0.15s 0.25s, border-radius 0.6s, left 0.3s, top 0.3s;
+  }
+
+  /* Rotate close button so it looks like close button */
+  .subpanel.register.open .close {
+    top: 5px;
+    right: 0px;
+    font-size: 32px;
+    opacity: .7;
+    cursor: pointer;
+    z-index: 2;
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+
+  .subpanel.register.open .close:hover {
+    opacity: 1;
+  }
+
+  .subpanel.register.open form, .subpanel.register.open h2 {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+    -webkit-transition: opacity 1s 0.55s;
+    transition: opacity 1s 0.55s;
+    -webkit-transition: opacity 1s 0.55s, -webkit-transform 0.5s 0.55s;
+    transition: opacity 1s 0.55s, -webkit-transform 0.5s 0.55s;
+    transition: transform 0.5s 0.55s, opacity 1s 0.55s;
+    transition: transform 0.5s 0.55s, opacity 1s 0.55s, -webkit-transform 0.5s 0.55s;
+    transition: transform 0.5s 0.55s, opacity 1s 0.55s;
+  }
+
+  .subpanel.register .btn {
+    color: #000;
+    font-weight: 400;
+  }
+  

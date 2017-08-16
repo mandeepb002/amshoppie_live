@@ -1,0 +1,14 @@
+@media only screen and (min-width:320px)
+{
+	.product_btn2 {
+    background: #f89f12 !important;
+    margin-left: 10px !important;
+    margin-top: 13px !important;
+}
+.product_btn1 
+{
+   background: #f89f12 !important;
+    margin-left: 0px !important;
+    margin-top: 13px !important;
+}	
+ }

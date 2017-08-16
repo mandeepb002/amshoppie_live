@@ -1,0 +1,130 @@
+.paymnt_editbtn
+{
+	background:#f89f12 !important;
+	padding: 6px 12px 6px 12px !important;
+}
+/*.pay_table
+{
+	border:2px solid #ccc;
+}*/
+
+.radio_card
+{
+	font-size:14px;
+	font-weight:500;
+}
+.payment_row2
+{
+	padding-top:20px;
+}
+
+.payment_rowbtn
+{
+	padding-top:20px !important;
+	margin-bottom:40px !important;
+}
+.ordrcmplt_btn
+{
+ 	padding: 4px 8px 4px 8px !important;
+	background:#FF8C69;
+}
+.ordrcmplt_btn:hover, .ordrcmplt_btn:active, .ordrcmplt_btn:focus, .ordrcmplt_btn:focus:active
+{
+ 	padding: 4px 8px 4px 8px !important;
+	background:#FF8C69 !important;
+}
+/*contact form start*/
+.contct_img
+{
+	margin-top:20px;
+}
+.cont_head1
+{
+	color:#FF8C69;
+}
+.cont_subhead
+{
+	font-size:16px !important;
+}
+.contct_dropdown
+{
+	margin-top:20px;
+}
+.contct_sbmt
+{
+	padding: 4px 8px 4px 8px !important;
+	background:#FF8C69;
+	border:none;
+}
+.cntctform_row
+{
+	margin-top:20px;
+}
+
+.contct_sbmt:hover, .contct_sbmt:active, .contct_sbmt:focus, .contct_sbmt:focus:active
+{
+	padding: 6px 10px 6px 10px !important;
+	background:#FF8C69 !important;
+	border:none !important;
+}
+.cntctbtn_row
+{
+	margin-bottom:40px !important;
+}
+.pay_head1
+{
+	color:#FF8C69;
+	font-size:18px;
+	font-weight:600;
+}
+.shpng_addrs
+{
+	border:1px solid #ccc;
+	height: auto;
+    padding: 10px;
+	font-size:14px;
+	font-weight:600;
+}
+.est-date
+{
+	background:#FF8C69;
+	padding: 6px;
+}
+.product-det
+{
+	font-size:14px;
+	font-weight:600;
+}
+.payment_item
+{
+	border:1px solid #ccc;
+	height: 152px;
+    padding: 10px;
+}
+.order_btn
+{
+	background:#FF8C69 !important;
+	padding: 5px !important;
+    font-size: 14px;
+    font-weight: 600;
+
+}
+.orderbtn_row
+{
+	padding-bottom:20px;
+}
+.paytb_head
+{
+	font-weight: 600;
+}
+.radio_add
+{
+	font-weight: 600;
+}
+
+
+/*contact form End*/
+
+
+
+

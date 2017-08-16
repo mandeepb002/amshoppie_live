@@ -1,0 +1,11 @@
+body{
+	margin: 0;
+	padding: 0;
+	overflow-x: hidden;
+}
+
+@media (min-width: 768px)and (max-width: 1335px){
+	.navmenu .navbar-nav .dropdown a {
+    padding: 10px 47px;
+}
+}
